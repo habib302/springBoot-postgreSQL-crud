@@ -8,6 +8,7 @@ public class SpringBootPostgreSqlCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootPostgreSqlCrudApplication.class, args);
+		System.out.println("hello employee");
 	}
 
 }
