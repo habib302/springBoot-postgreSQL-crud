@@ -8,3 +8,8 @@ Project Feature
 4.	user can get a single employee using get method and http://localhost:8080/api/v1/employees/{id}
 5.	user can update a single employee using put method and http://localhost:8080/api/v1/employees/{id}
 6.	user can delete a single employee using delete method and http://localhost:8080/api/v1/employees/{id}
+
+
+### `How to run this project`
+1. Create a employees tale in postgreSql database
+2. Change postgresSql credential in application.properties.
