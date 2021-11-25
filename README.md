@@ -13,3 +13,6 @@ Project Feature
 ### `How to run this project`
 1. Create a employees tale in postgreSql database
 2. Change postgresSql credential in application.properties.
+
+### `After insert data in the table`
+![Screenshot_5](https://user-images.githubusercontent.com/20669870/143331941-4f965833-1944-43a9-872b-e36930963585.jpg)
